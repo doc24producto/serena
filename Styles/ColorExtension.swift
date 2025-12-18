@@ -10,6 +10,6 @@ public extension Color {
         // Primary brand
 
         /// Color principal de la marca
-        public let primaryBrandColorBrand800 = Color(.sRGB, red: 76/255, green: 182/255, blue: 158/255, opacity: 1) 
+        public let primaryBrandColorBrand800 = Color(.sRGB, red: 68/255, green: 204/255, blue: 187/255, opacity: 1) 
     }
 }
